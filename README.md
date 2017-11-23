@@ -330,3 +330,10 @@ Technical Program Manager
 Asia Hoe
 Product Designer
 [Website](http://asiahoe.com) | [Twitter](https://twitter.com/asiahoe) | [LinkedIn](https://linkedin.com/in/asiah) | [GitHub](https://github.com/asiahoe)
+
+Tony Dovale 
+Systems developer, Facilitator, Director  
+Life Masters
+[Personal Website](http://www.tonydovalespeaks.com) | [Company Website](http://www.lifemasters.co.za.com) | [Twitter](https://twitter.com/tonydovale) |
+[GitHub](https://github.com/tdovale) | [Linkedin](https://za.linkedin.com/in/tonydovalespeaker) | [Youtube](https://www.youtube.com/user/teambuildingguru) | [Amazon](https://www.amazon.com/Tony-Dovale/e/B00G7K32KM) | 
+
